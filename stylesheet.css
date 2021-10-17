@@ -1,0 +1,19 @@
+.sheet1{
+  background-image: url(bgimage.jpeg);
+}
+.header{
+  background-image: url(open.png);
+  height: 30%;
+  width: 100%;
+}
+h1{
+  font-family: chalkduster;
+  font-size: 100px;
+  text-align: center;
+
+}
+.chapter1{
+  font-size: 40px;
+  text-align: center;
+
+}
